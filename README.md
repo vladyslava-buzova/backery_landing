@@ -1,7 +1,9 @@
-# Creative Bakery landing page
+# 'Creative Bakery' landing page
+- [DEMO LINK](https://vladyslava-buzova.github.io/backery-lending/)
 
-SEO optimized landing page 'Creative Bakery' was implement according to
-[Figma design](https://www.figma.com/file/ANOsJBeDuOrWiXqUBKkGut/Bakerlab_FE-students-(Copy)?t=tgq6EwzVBfYfbjQ6-0)
+# What is a landing page?
+SEO optimized landing page 'Creative Bakery'.
+It's a web page created specifically to persuade users to purchase products, for a marketing or advertising campaign.
 
 # Technologies:
 A landing page with adaptive design.
@@ -13,8 +15,8 @@ Technologies: HTML, CSS, Sass (SCSS), BEM.
 1. Hamburger menu.
 2. Responsive gallery.
 
-# Eco cosmetics landing page
-- [DEMO LINK](https://vladyslava-buzova.github.io/backery-lending/)
+# Figma design
+[Figma design](https://www.figma.com/file/ANOsJBeDuOrWiXqUBKkGut/Bakerlab_FE-students-(Copy)?t=tgq6EwzVBfYfbjQ6-0)
 
 # How to lounch a project.
 1. Clone the repo.
