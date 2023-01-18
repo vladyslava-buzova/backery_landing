@@ -14,6 +14,8 @@ Technologies: HTML, CSS, Sass (SCSS), BEM.
 # Implemented features
 1. Hamburger menu.
 2. Responsive gallery.
+3. SEO optimized meta description.
+4. Adaptive for different devices.
 
 # Figma design
 [Figma design](https://www.figma.com/file/ANOsJBeDuOrWiXqUBKkGut/Bakerlab_FE-students-(Copy)?t=tgq6EwzVBfYfbjQ6-0)
