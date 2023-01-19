@@ -20,7 +20,7 @@ Technologies: HTML, CSS, Sass (SCSS), BEM.
 # Figma design
 [Figma design](https://www.figma.com/file/ANOsJBeDuOrWiXqUBKkGut/Bakerlab_FE-students-(Copy)?t=tgq6EwzVBfYfbjQ6-0)
 
-# How to lounch a project.
+# How to launch a project.
 1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
 2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)
