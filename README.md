@@ -8,7 +8,7 @@ The website can be viewed on any device.
 
 Technologies: HTML, CSS, Sass (SCSS), BEM.
 
-# Implemented features
+# Implemented features:
 1. Hamburger menu.
 2. Responsive gallery.
 3. Classes are written according BEM methodology.
@@ -22,7 +22,7 @@ Technologies: HTML, CSS, Sass (SCSS), BEM.
 # Figma design
 This landing page was implemented according to [Figma design](https://www.figma.com/file/ANOsJBeDuOrWiXqUBKkGut/Bakerlab_FE-students-(Copy)?t=tgq6EwzVBfYfbjQ6-0)
 
-# How to launch a project.
+# How to launch a project:
 1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
 2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)
