@@ -1,9 +1,6 @@
-# 'Creative Bakery' landing page
-- [DEMO LINK](https://vladyslava-buzova.github.io/backery-lending/)
-
-# What is a landing page?
+# 'Creative Bakery' landing page.
 SEO optimized landing page 'Creative Bakery'.
-It's a web page created specifically to persuade users to purchase products, for a marketing or advertising campaign.
+- [DEMO LINK](https://vladyslava-buzova.github.io/backery-lending/)
 
 # Technologies:
 A landing page with adaptive design.
@@ -14,11 +11,18 @@ Technologies: HTML, CSS, Sass (SCSS), BEM.
 # Implemented features
 1. Hamburger menu.
 2. Responsive gallery.
+3. Classes are written according BEM methodology.
+4. Page is adaptive for different screens.
+5. Clickable links, amimated images for user actions.
+6. Links lead to the corresponding blocks of the landing page.
+7. Favicon
+8. The phone number and mail are clickable and when clicked, the browser offers to call the specified number or write a letter to the specified mail.
+9. Seo optimized meta tags.
 
 # Figma design
-[Figma design](https://www.figma.com/file/ANOsJBeDuOrWiXqUBKkGut/Bakerlab_FE-students-(Copy)?t=tgq6EwzVBfYfbjQ6-0)
+This landing page was implemented according to [Figma design](https://www.figma.com/file/ANOsJBeDuOrWiXqUBKkGut/Bakerlab_FE-students-(Copy)?t=tgq6EwzVBfYfbjQ6-0)
 
-# How to lounch a project.
+# How to launch a project.
 1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
 2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)
