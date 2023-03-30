@@ -1,5 +1,5 @@
 # 'Creative Bakery' landing page
-- [DEMO LINK](https://vladyslava-buzova.github.io/backery-lending/)
+- [DEMO LINK](https://vladyslava-buzova.github.io/backery_landing/)
 
 # What is a landing page?
 SEO optimized landing page 'Creative Bakery'.
